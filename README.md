@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm David
+
+I'm a passionate software developer with 10+ years of experience in the .NET software development stack.
+My current playground is playground is Vue.js + GraphQL + gRPC + .NET Core.
 
 <!--
 **daviddesmet/daviddesmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
