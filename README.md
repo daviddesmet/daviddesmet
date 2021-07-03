@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![David's github stats](https://github-readme-stats.vercel.app/api?username=daviddesmet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs)
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=daviddesmet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs)](https://github.com/daviddesmet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddesmet&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/daviddesmet)
 
