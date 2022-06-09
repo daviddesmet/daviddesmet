@@ -1,6 +1,6 @@
 ### Hi, I'm David
 
-I'm a passionate software developer with 10+ years of experience in the .NET software development stack.
+I'm a passionate software developer with 15+ years of experience in the .NET software development stack.
 My current playground is Vue.js + GraphQL + gRPC + .NET Core.
 
 <img src="https://raw.githubusercontent.com/daviddesmet/daviddesmet/master/assets/code-line.svg" alt="programming languages"> C# · TypeScript · JavaScript · Vue
